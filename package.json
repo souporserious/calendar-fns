@@ -1,0 +1,14 @@
+{
+  "name": "calendar-fns",
+  "version": "0.3.0",
+  "description": "Toolset for building calendars in Javascript",
+  "main": "index.js",
+  "author": "Travis Arnold",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "2.0.0-alpha.27"
+  },
+  "devDependencies": {
+    "typescript": "^3.3.3"
+  }
+}
